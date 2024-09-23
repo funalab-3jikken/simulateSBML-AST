@@ -1,4 +1,4 @@
-PROG = helloSBML
+PROG = simulateSBML-AST
 OBJS = main.o
 CC = gcc
 CFLAGS = -g -Wall -I./include
